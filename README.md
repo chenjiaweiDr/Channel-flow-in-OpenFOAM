@@ -5,6 +5,9 @@
 2.Filters → Alphabetical → Integrate Variables  
 3.Divided by the boundary area
 
+WALE
+tau_w=0.00587567/61.44=9.563e-5
+
 SM
 A=12.8*4.8=61.44  
 Cf=0.30401/61.44=0.00495   error= 16.24%  
@@ -19,3 +22,6 @@ DLBM
 A=12.8*4.8=61.44 
 Cf=0.295416/61.44=0.00481
 tau_w=0.00590834/61.44=9.616e-5
+
+WALE
+tau_w=0.00571953/61.44=9.309e-5
