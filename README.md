@@ -1,4 +1,7 @@
 # Channel flow
+PLease download the DNS statistics of Moser et al. for Re_tau=550 and 5200 at the link. Github issue does not support uploading files, except picture.
+https://turbulence.oden.utexas.edu/
+
 ## postProcessing
 ### Paraview
 1.Turn off all other boundaries except for the targeted boundary  
